@@ -1,0 +1,15 @@
+D:\VisualProjects\SimpleStaffAccounting\bin\Debug\SimpleStaffAccounting.exe.config
+D:\VisualProjects\SimpleStaffAccounting\bin\Debug\SimpleStaffAccounting.exe
+D:\VisualProjects\SimpleStaffAccounting\bin\Debug\SimpleStaffAccounting.pdb
+D:\VisualProjects\SimpleStaffAccounting\bin\Debug\System.Data.SQLite.dll
+D:\VisualProjects\SimpleStaffAccounting\bin\Debug\System.Data.SQLite.pdb
+D:\VisualProjects\SimpleStaffAccounting\bin\Debug\System.Data.SQLite.xml
+D:\VisualProjects\SimpleStaffAccounting\bin\Debug\System.Data.SQLite.dll.config
+D:\VisualProjects\SimpleStaffAccounting\obj\Debug\SimpleStaffAccounting.csprojAssemblyReference.cache
+D:\VisualProjects\SimpleStaffAccounting\obj\Debug\SimpleStaffAccounting.Form1.resources
+D:\VisualProjects\SimpleStaffAccounting\obj\Debug\SimpleStaffAccounting.Properties.Resources.resources
+D:\VisualProjects\SimpleStaffAccounting\obj\Debug\SimpleStaffAccounting.csproj.GenerateResource.cache
+D:\VisualProjects\SimpleStaffAccounting\obj\Debug\SimpleStaffAccounting.csproj.CoreCompileInputs.cache
+D:\VisualProjects\SimpleStaffAccounting\obj\Debug\SimpleStaffAccounting.csproj.CopyComplete
+D:\VisualProjects\SimpleStaffAccounting\obj\Debug\SimpleStaffAccounting.exe
+D:\VisualProjects\SimpleStaffAccounting\obj\Debug\SimpleStaffAccounting.pdb
